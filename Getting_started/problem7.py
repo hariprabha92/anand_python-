@@ -12,9 +12,3 @@ print square(2*5)
 
 number_of_muliplications=numcalls
 print number_of_muliplications
-
-
-#output
-#25
-#100
-#2
