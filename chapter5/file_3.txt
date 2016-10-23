@@ -1,0 +1,2 @@
+the function. The result, for this function, is the type of the argument.
+It is common to say that a function “takes” an argument and “returns” a result. The result
